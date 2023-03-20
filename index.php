@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>FTP Deploy</title>
+  <title> FTP Deploy </title>
  </head>
  <body>
  <p> Hello World </p>
